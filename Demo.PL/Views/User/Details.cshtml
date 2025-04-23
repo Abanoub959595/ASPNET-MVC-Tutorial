@@ -1,0 +1,14 @@
+﻿@model ApplicationUser
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>User Details</h1>
+<br />
+<form>
+  <partial name="PartialViews/DetailsOrDeletePartialView"/>
+  <br/>
+  <a asp-action="Update" class="btn btn-success" asp-route-id="@Model.Id">Update User</a>
+  <a asp-action="Index" class="btn btn-light">Back To List</a>
+</form>

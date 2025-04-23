@@ -1,0 +1,16 @@
+﻿
+@{
+    ViewData["Title"] = "Delete";
+}
+<h3 class="text-danger">Deletion Warning</h3>
+<br />
+<form asp-action="Delete" >
+
+
+<partial name="PartialViews/DetailsOrDeletePartialView"/>
+
+	<input type="submit" class="btn btn-danger" value="Want To Delete?"/>
+	<a asp-action="Index" class="btn btn-light">Back To List</a>
+</form>
+	<br/>
+

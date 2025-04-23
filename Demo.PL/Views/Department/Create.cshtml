@@ -1,0 +1,25 @@
+﻿	
+@* @using Demo.DAL.Entities  => we add it in view imports*@
+@model DepartmentViewModel
+
+@* <div class="alert alert-danger">
+	<h3>@ViewBag.Message</h3>
+</div>
+
+
+<div class="alert alert-warning">
+	<h3>@ViewData["MessageData"]</h3>
+</div> *@
+
+
+
+<div class="row">
+	<div class="col-6">
+		<form asp-action="create" asp-controller="Department">
+			<partial name="PartialViews/CreateOrUpdatePartialView"/>
+			<br/>
+			<input type="submit" Value="Add" class="btn btn-primary"/>
+			<a asp-action="Index" class="btn btn-light">Back To Lis</a>
+		</form>
+	</div>
+</div>

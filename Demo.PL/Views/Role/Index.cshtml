@@ -1,0 +1,57 @@
+﻿@model IEnumerable<ApplicationRole>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Application Roles</h1>
+<br/>
+<a asp-action="Create" asp-controller="Role" class="btn btn-primary">Create Role</a>
+<br/>
+<br/>
+<form asp-action="Index" class="my-3">
+    <div class="row">
+        <div class="col-sm-8">
+            <input placeholder="Search By Name" name="SearchValue" class="form-control"/>
+        </div>
+        <div class="col-sm-4">
+            <input type="submit" value="Search" class="btn btn-success btn-block"/>
+        </div>
+</form>
+
+<br/>
+<br/>
+@if(Model.Count() > 0)
+{
+        <table class="table">
+      <thead>
+        <tr>
+          <th scope="col">@Html.DisplayNameFor(role => role.Id)</th>
+          <th scope="col">@Html.DisplayNameFor(role => role.Name)</th>
+          <th scope="col">@Html.DisplayNameFor(role => role.CreateAt)</th>
+          <th scope="col">Details</th>
+          <th scope="col">Update</th>
+          <th scope="col">Delete</th>
+        </tr>
+      </thead>
+      <tbody>
+          @foreach(var role in Model)
+          {
+            <tr>
+              <th scope="row">@role.Id</th>
+              <td>@role.Name</td>
+              <td>@role.CreateAt</td>
+            <partial name="ButtonsPartialViews" model="@role.Id.ToString()"/>
+            </tr>
+          }
+        
+      </tbody>
+    </table>
+
+} else
+{
+    <div class="alert alert-warning">
+			<h3>NO Roles Found !!</h3>
+	</div>
+}
+

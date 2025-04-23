@@ -1,0 +1,17 @@
+﻿
+
+<h3>Department Detatils</h3>
+<br/>
+
+
+
+<div class="row">
+	<div class="col-6">
+		<form asp-action="create" asp-controller="Department">
+			<partial name="PartialViews/DeleteOrDetailsPartialView"/>
+			<br/>
+			<a asp-action="Update" asp-route-id="@Model.Id" class="btn btn-info" >Update</a>
+			<a asp-action="Index" class="btn btn-light">Back To List</a>
+		</form>
+	</div>
+</div>

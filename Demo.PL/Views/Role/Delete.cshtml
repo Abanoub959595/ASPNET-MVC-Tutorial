@@ -1,0 +1,18 @@
+﻿
+@{
+    ViewData["Title"] = "Delete";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Delete Role</h1>
+
+<br/>
+
+<form asp-action="Delete" asp-controller="Role">
+    <partial name="PartialViews/DetailsOrDeletePartialView"/>
+    <div class="mb-3 form-check">
+        <input type="submit" class="btn btn-info" value="Delete Role"/>
+        <a asp-action="Index" class="btn btn-light" >Back To List</a>
+    </div>
+</form>
+

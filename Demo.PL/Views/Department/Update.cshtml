@@ -1,0 +1,20 @@
+﻿@model DepartmentViewModel
+
+
+
+<h3>Updating Department</h3>
+<br/>
+
+
+
+<div class="row">
+	<div class="col-6">
+		<form asp-action="Update" asp-controller="Department">
+
+			<partial name="PartialViews/CreateOrUpdatePartialView"/>
+			<br/>
+			<input value="Apply Updates" type="submit" class="btn btn-info"/>
+			<a asp-action="Index" class="btn btn-light">Back To List</a>
+		</form>
+	</div>
+</div>

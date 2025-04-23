@@ -1,0 +1,15 @@
+﻿@model ApplicationUser
+
+
+<div class="mb-3">
+  <label asp-for="@Model.Id" class="form-label">User Id</label>
+  <input type="text" class="form-control" asp-for="@Model.Id" Readonly>
+</div>
+<div class="mb-3">
+  <label asp-for="@Model.UserName" class="form-label">User Name</label>
+  <input type="text" class="form-control" asp-for="@Model.UserName" Readonly>
+</div>
+<div class="mb-3">
+  <label asp-for="@Model.Email" class="form-label">User Email</label>
+  <input type="text" class="form-control" asp-for="@Model.Email" Readonly>
+</div>

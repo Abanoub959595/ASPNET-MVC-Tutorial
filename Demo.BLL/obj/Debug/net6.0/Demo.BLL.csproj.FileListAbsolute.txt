@@ -1,0 +1,60 @@
+E:\05 MVC\Session 03\Demo Session Three\MVCProjectOne\Demo.BLL\bin\Debug\net6.0\Demo.BLL.deps.json
+E:\05 MVC\Session 03\Demo Session Three\MVCProjectOne\Demo.BLL\bin\Debug\net6.0\Demo.BLL.dll
+E:\05 MVC\Session 03\Demo Session Three\MVCProjectOne\Demo.BLL\bin\Debug\net6.0\Demo.BLL.pdb
+E:\05 MVC\Session 03\Demo Session Three\MVCProjectOne\Demo.BLL\bin\Debug\net6.0\Demo.DAL.dll
+E:\05 MVC\Session 03\Demo Session Three\MVCProjectOne\Demo.BLL\bin\Debug\net6.0\Demo.DAL.pdb
+E:\05 MVC\Session 03\Demo Session Three\MVCProjectOne\Demo.BLL\obj\Debug\net6.0\Demo.BLL.csproj.AssemblyReference.cache
+E:\05 MVC\Session 03\Demo Session Three\MVCProjectOne\Demo.BLL\obj\Debug\net6.0\Demo.BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\05 MVC\Session 03\Demo Session Three\MVCProjectOne\Demo.BLL\obj\Debug\net6.0\Demo.BLL.AssemblyInfoInputs.cache
+E:\05 MVC\Session 03\Demo Session Three\MVCProjectOne\Demo.BLL\obj\Debug\net6.0\Demo.BLL.AssemblyInfo.cs
+E:\05 MVC\Session 03\Demo Session Three\MVCProjectOne\Demo.BLL\obj\Debug\net6.0\Demo.BLL.csproj.CoreCompileInputs.cache
+E:\05 MVC\Session 03\Demo Session Three\MVCProjectOne\Demo.BLL\obj\Debug\net6.0\Demo.BLL.csproj.CopyComplete
+E:\05 MVC\Session 03\Demo Session Three\MVCProjectOne\Demo.BLL\obj\Debug\net6.0\Demo.BLL.dll
+E:\05 MVC\Session 03\Demo Session Three\MVCProjectOne\Demo.BLL\obj\Debug\net6.0\refint\Demo.BLL.dll
+E:\05 MVC\Session 03\Demo Session Three\MVCProjectOne\Demo.BLL\obj\Debug\net6.0\Demo.BLL.pdb
+E:\05 MVC\Session 03\Demo Session Three\MVCProjectOne\Demo.BLL\obj\Debug\net6.0\ref\Demo.BLL.dll
+E:\05 MVC\Session 05\MVCSession05\Demo.BLL\bin\Debug\net6.0\Demo.BLL.deps.json
+E:\05 MVC\Session 05\MVCSession05\Demo.BLL\bin\Debug\net6.0\Demo.BLL.dll
+E:\05 MVC\Session 05\MVCSession05\Demo.BLL\bin\Debug\net6.0\Demo.BLL.pdb
+E:\05 MVC\Session 05\MVCSession05\Demo.BLL\bin\Debug\net6.0\Demo.DAL.dll
+E:\05 MVC\Session 05\MVCSession05\Demo.BLL\bin\Debug\net6.0\Demo.DAL.pdb
+E:\05 MVC\Session 05\MVCSession05\Demo.BLL\obj\Debug\net6.0\Demo.BLL.csproj.AssemblyReference.cache
+E:\05 MVC\Session 05\MVCSession05\Demo.BLL\obj\Debug\net6.0\Demo.BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\05 MVC\Session 05\MVCSession05\Demo.BLL\obj\Debug\net6.0\Demo.BLL.AssemblyInfoInputs.cache
+E:\05 MVC\Session 05\MVCSession05\Demo.BLL\obj\Debug\net6.0\Demo.BLL.AssemblyInfo.cs
+E:\05 MVC\Session 05\MVCSession05\Demo.BLL\obj\Debug\net6.0\Demo.BLL.csproj.CoreCompileInputs.cache
+E:\05 MVC\Session 05\MVCSession05\Demo.BLL\obj\Debug\net6.0\Demo.BLL.csproj.CopyComplete
+E:\05 MVC\Session 05\MVCSession05\Demo.BLL\obj\Debug\net6.0\Demo.BLL.dll
+E:\05 MVC\Session 05\MVCSession05\Demo.BLL\obj\Debug\net6.0\refint\Demo.BLL.dll
+E:\05 MVC\Session 05\MVCSession05\Demo.BLL\obj\Debug\net6.0\Demo.BLL.pdb
+E:\05 MVC\Session 05\MVCSession05\Demo.BLL\obj\Debug\net6.0\ref\Demo.BLL.dll
+E:\05 MVC\Session 06\MVCSession06\Demo.BLL\bin\Debug\net6.0\Demo.BLL.deps.json
+E:\05 MVC\Session 06\MVCSession06\Demo.BLL\bin\Debug\net6.0\Demo.BLL.dll
+E:\05 MVC\Session 06\MVCSession06\Demo.BLL\bin\Debug\net6.0\Demo.BLL.pdb
+E:\05 MVC\Session 06\MVCSession06\Demo.BLL\bin\Debug\net6.0\Demo.DAL.dll
+E:\05 MVC\Session 06\MVCSession06\Demo.BLL\bin\Debug\net6.0\Demo.DAL.pdb
+E:\05 MVC\Session 06\MVCSession06\Demo.BLL\obj\Debug\net6.0\Demo.BLL.csproj.AssemblyReference.cache
+E:\05 MVC\Session 06\MVCSession06\Demo.BLL\obj\Debug\net6.0\Demo.BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\05 MVC\Session 06\MVCSession06\Demo.BLL\obj\Debug\net6.0\Demo.BLL.AssemblyInfoInputs.cache
+E:\05 MVC\Session 06\MVCSession06\Demo.BLL\obj\Debug\net6.0\Demo.BLL.AssemblyInfo.cs
+E:\05 MVC\Session 06\MVCSession06\Demo.BLL\obj\Debug\net6.0\Demo.BLL.csproj.CoreCompileInputs.cache
+E:\05 MVC\Session 06\MVCSession06\Demo.BLL\obj\Debug\net6.0\Demo.BLL.csproj.CopyComplete
+E:\05 MVC\Session 06\MVCSession06\Demo.BLL\obj\Debug\net6.0\Demo.BLL.dll
+E:\05 MVC\Session 06\MVCSession06\Demo.BLL\obj\Debug\net6.0\refint\Demo.BLL.dll
+E:\05 MVC\Session 06\MVCSession06\Demo.BLL\obj\Debug\net6.0\Demo.BLL.pdb
+E:\05 MVC\Session 06\MVCSession06\Demo.BLL\obj\Debug\net6.0\ref\Demo.BLL.dll
+E:\05 MVC\Session 07\MVCSession07\Demo.BLL\bin\Debug\net6.0\Demo.BLL.deps.json
+E:\05 MVC\Session 07\MVCSession07\Demo.BLL\bin\Debug\net6.0\Demo.BLL.dll
+E:\05 MVC\Session 07\MVCSession07\Demo.BLL\bin\Debug\net6.0\Demo.BLL.pdb
+E:\05 MVC\Session 07\MVCSession07\Demo.BLL\bin\Debug\net6.0\Demo.DAL.dll
+E:\05 MVC\Session 07\MVCSession07\Demo.BLL\bin\Debug\net6.0\Demo.DAL.pdb
+E:\05 MVC\Session 07\MVCSession07\Demo.BLL\obj\Debug\net6.0\Demo.BLL.csproj.AssemblyReference.cache
+E:\05 MVC\Session 07\MVCSession07\Demo.BLL\obj\Debug\net6.0\Demo.BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\05 MVC\Session 07\MVCSession07\Demo.BLL\obj\Debug\net6.0\Demo.BLL.AssemblyInfoInputs.cache
+E:\05 MVC\Session 07\MVCSession07\Demo.BLL\obj\Debug\net6.0\Demo.BLL.AssemblyInfo.cs
+E:\05 MVC\Session 07\MVCSession07\Demo.BLL\obj\Debug\net6.0\Demo.BLL.csproj.CoreCompileInputs.cache
+E:\05 MVC\Session 07\MVCSession07\Demo.BLL\obj\Debug\net6.0\Demo.BLL.dll
+E:\05 MVC\Session 07\MVCSession07\Demo.BLL\obj\Debug\net6.0\refint\Demo.BLL.dll
+E:\05 MVC\Session 07\MVCSession07\Demo.BLL\obj\Debug\net6.0\Demo.BLL.pdb
+E:\05 MVC\Session 07\MVCSession07\Demo.BLL\obj\Debug\net6.0\ref\Demo.BLL.dll
+E:\05 MVC\Session 07\MVCSession07\Demo.BLL\obj\Debug\net6.0\Demo.BLL.csproj.Up2Date

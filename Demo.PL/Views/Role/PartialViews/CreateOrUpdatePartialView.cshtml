@@ -1,0 +1,10 @@
+﻿@model ApplicationRole
+<div class="mb-3">
+    @Html.ValidationSummary(true, "", new { @class="text-danger"});
+        <label asp-for="@Model.Name" class="form-label">Role Name</label>
+        <input type="text" class="form-control" asp-for="@Model.Name">
+    </div>
+
+
+
+

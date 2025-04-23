@@ -1,0 +1,18 @@
+﻿@model ApplicationUser
+@{
+    ViewData["Title"] = "Update";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Update User</h1>
+
+<form asp-action="Update">
+    <div class="mb-3">
+        @Html.ValidationSummary(true, "", new { @class="text-danger"});
+        <label asp-for="@Model.UserName" class="form-label">User Name</label>
+        <input type="text" class="form-control" asp-for="@Model.UserName">
+    </div>
+    <br/>
+      <input type="submit" value="Update" class="btn btn-success"/>  | 
+      <a asp-action="Index" class="btn btn-light">Back To List</a>
+</form>

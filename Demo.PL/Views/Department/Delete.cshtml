@@ -1,0 +1,19 @@
+﻿
+
+
+
+<h3 class="text-danger" >Deletion Warning</h3>
+<br/>
+
+
+
+<div class="row">
+	<div class="col-6">
+		<form asp-action="DeleteDepartment" asp-controller="Department">
+			<partial name="PartialViews/DeleteOrDetailsPartialView"/>
+			<br/>
+			<input type="submit" value="Want to delete?" class="btn btn-info" >
+			<a asp-action="Index" class="btn btn-light">Back To List</a>
+		</form>
+	</div>
+</div>

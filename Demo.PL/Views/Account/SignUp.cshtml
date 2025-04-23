@@ -1,0 +1,28 @@
+﻿@model SignUpViewModel
+@{
+    ViewData["Title"] = "SignUp";
+    Layout = "~/Views/Shared/AuthLayout.cshtml";
+}
+@* <div class="main-agileinfo">
+    <div class="agilits-top"> *@
+        <h1>SignUp Form</h1>
+        <div asp-validation-summary="All" class="text-danger"></div>
+        @Html.ValidationSummary(true, "", new {@class="text-danger"})
+        <input type="email" class="text email" asp-for="@Model.Email" placeholder="Enter U Mail"/>
+        <span asp-validation-for="@Model.Email" class="text-danger"></span>
+        <input type="password" class="text" asp-for="@Model.Password" placeholder="Enter U Password"/>
+        <span asp-validation-for="@Model.Password" class="text-danger"></span>
+        <input type="password" class="text w3lpass" asp-for="@Model.ConfirmPassword" placeholder="Enter Confirmed Password"/>
+        <span asp-validation-for="@Model.ConfirmPassword" class="text-danger"></span>
+
+        <div class="wthree-text">
+            <label class="anim">
+                <input type="checkbox" asp-for="@Model.IsAgree" class="checkbox" required=""/>
+                <span>I Agree to The Terms & Conditions</span>
+            </label>
+            <div class="clear"></div>
+            <input type="submit" value="SignUp"/>
+            <p>Have An Account? <a asp-action="Login">Login Now!</a></p>    
+        </div>
+@*     </div>
+</di> *@
